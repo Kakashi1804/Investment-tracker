@@ -1,0 +1,11 @@
+```
+your-project/
+  ├── package.json
+  ├── next.config.js
+  ├── pages/
+  │   ├── _app.js
+  │   ├── index.js (where we'll put the CryptoTracker)
+  ├── components/
+  │   └── ui/ (for shadcn components)
+  └── public/
+```
